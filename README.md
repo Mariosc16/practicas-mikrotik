@@ -1,2 +1,2 @@
-# practicas-mikrotik
-En este repositorio veremos como configurar dos dispositivos de la marca MikroTik
+# practicas Mikrotik
+En este repositorio veremos como configurar tres dispositivos de la marca MikroTik
